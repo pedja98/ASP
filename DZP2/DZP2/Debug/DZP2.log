@@ -1,0 +1,5 @@
+﻿  StabloFje.cpp
+f:\razno\predrag\dzp2\dzp2\stablofje.cpp(194): warning C4715: 'Ubaci': not all control paths return a value
+f:\razno\predrag\dzp2\dzp2\stek.h(77): warning C4715: 'Stek::POP': not all control paths return a value
+f:\razno\predrag\dzp2\dzp2\red.h(86): warning C4715: 'Red::izbaci': not all control paths return a value
+  DZP2.vcxproj -> F:\Razno\Predrag\DZP2\Debug\DZP2.exe
